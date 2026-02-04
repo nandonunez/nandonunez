@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Fernando 👋 Physicist & AI Engineer
 
-<!--
-**nandonunez/nandonunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building the bridge between **Physical Systems** and **Artificial Intelligence**. 
+Specialized in Climate Tech, Renewable Energy, and Geospatial Intelligence.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
+- **[SERGAS AI Agent]:** Developing a multimodal RAG-based agent for public healthcare scheduling.
+- **[Geospatial LLMs]:** Implementing regional weather forecasting using LLM agents and prompt engineering.
+- **[Climate Resilience]:** Engineering predictive models for wildfire risk and natural disaster management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Python (PyTorch, TensorFlow, Scikit-learn), SQL (PostGIS), Scala/Spark.
+- **AI/ML:** LLMs, RAG, Computer Vision (Segmentation), Time Series Forecasting.
+- **Science & GIS:** Physics-based modeling, QGIS, ArcGIS, HPC clusters.
+
+### 🌍 Impact & Strategy
+Former representative of the **Spanish Innovation Agency (CDTI)** in Brazil. I combine deep technical expertise with international tech diplomacy and project management.
