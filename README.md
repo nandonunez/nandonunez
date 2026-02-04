@@ -1,4 +1,4 @@
-# Hi, I'm Fernando 👋 Physicist & AI Engineer
+# Hi, I'm Nando 👋 Physicist & AI Engineer
 
 Building the bridge between **Physical Systems** and **Artificial Intelligence**. 
 Specialized in Climate Tech, Renewable Energy, and Geospatial Intelligence.
