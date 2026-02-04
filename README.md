@@ -4,7 +4,7 @@ Building the bridge between **Physical Systems** and **Artificial Intelligence**
 Specialized in Climate Tech, Renewable Energy, and Geospatial Intelligence.
 
 ### 🚀 What I'm working on
-- **[SERGAS AI Agent]:** Developing a multimodal RAG-based agent for public healthcare scheduling.
+- **[Public Healthcare AI Agent]:** Developing a multimodal RAG-based agent for public healthcare scheduling.
 - **[Geospatial LLMs]:** Implementing regional weather forecasting using LLM agents and prompt engineering.
 - **[Climate Resilience]:** Engineering predictive models for wildfire risk and natural disaster management.
 
