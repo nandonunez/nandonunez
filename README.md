@@ -15,3 +15,8 @@ Specialized in Climate Tech, Renewable Energy, and Geospatial Intelligence.
 
 ### 🌍 Impact & Strategy
 Former representative of the **Spanish Innovation Agency (CDTI)** in Brazil. I combine deep technical expertise with international tech diplomacy and project management.
+
+## 📂 Project Portfolio
+
+For detailed case studies and advanced system designs, visit my portfolio repository:  
+**[Applied AI Portfolio](https://github.com/nandonunez/Applied-AI-Portfolio)**
