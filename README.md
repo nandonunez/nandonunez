@@ -1,4 +1,4 @@
-# Fernando Núñez Sánchez
+# Fernando Núnez Sánchez
 
 Applied AI Engineer & Physicist based in Spain.
 
