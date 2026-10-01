@@ -1,22 +1,40 @@
-# Hi, I'm Nando 👋 Physicist & AI Engineer
+# Fernando Núñez Sánchez
 
-Building the bridge between **Physical Systems** and **Artificial Intelligence**. 
-Specialized in Climate Tech, Renewable Energy, and Geospatial Intelligence.
+Applied AI Engineer & Physicist based in Spain.
 
-### 🚀 What I'm working on
-- **[Public Healthcare AI Agent]:** Developing a multimodal RAG-based agent for public healthcare scheduling.
-- **[Geospatial LLMs]:** Implementing regional weather forecasting using LLM agents and prompt engineering.
-- **[Climate Resilience]:** Engineering predictive models for wildfire risk and natural disaster management.
+My work focuses on applied machine learning, real-time voice architectures, and scientific computing for energy and physical systems. I combine a background in physics with modern software engineering to build robust, production-oriented solutions.
 
-### 🛠 Tech Stack
-- **Languages:** Python (PyTorch, TensorFlow, Scikit-learn), SQL (PostGIS), Scala/Spark.
-- **AI/ML:** LLMs, RAG, Computer Vision (Segmentation), Time Series Forecasting.
-- **Science & GIS:** Physics-based modeling, QGIS, ArcGIS, HPC clusters.
+Previously, I served as the representative of the Spanish Innovation Agency (CDTI) in Brazil, managing international technology cooperation, bilateral R&D programs, and tech transfer.
 
-### 🌍 Impact & Strategy
-Former representative of the **Spanish Innovation Agency (CDTI)** in Brazil. I combine deep technical expertise with international tech diplomacy and project management.
+---
 
-## 📂 Project Portfolio
+### Focus Areas
 
-For detailed case studies and advanced system designs, visit my portfolio repository:  
-**[Applied AI Portfolio](https://github.com/nandonunez/Applied-AI-Portfolio)**
+- **Voice & Real-Time Systems**: Low-latency, full-duplex conversational voice agents integrating streaming audio pipelines (FastRTC, WebRTC), state-machine orchestration (LangGraph), and localized speech models (including minority language support).
+- **Physical Systems & Renewable Energy**: Applied predictive modeling for renewable infrastructure: wind farm production forecasting (numerical weather predictions + SCADA telemetry), off-grid PV optimization via Loss of Load Probability (LLP), and meteorological pattern classification.
+- **Data Engineering & Local-First Software**: Data processing pipelines (Apache Spark, PostGIS, atmospheric NetCDF/GRIB data) and offline-first mobile applications in production (Flutter).
+
+---
+
+### Selected Work
+
+- **[Healthcare Voice Agent](https://github.com/nandonunez/applied-ai-portfolio/tree/main/healthcare-agent)**: Real-time conversational agent for public healthcare appointment scheduling. Full-duplex audio stream via FastRTC, LangGraph workflow orchestration, and SQLModel persistence.
+- **[Wind Production Forecasting](https://github.com/nandonunez/applied-ai-portfolio/tree/main/wind-forecasting)**: Production-grade ML pipeline combining numerical weather reanalysis (GFS/ECMWF) with turbine-level SCADA data using gradient-boosted ensembles.
+- **[Standalone PV Sizing via LLP](https://github.com/nandonunez/applied-ai-portfolio/tree/main/pv-llp-sizing)**: Sizing and optimization framework based on Loss of Load Probability isoreliability curves using multi-year solar irradiation time series.
+- **[A Eito](https://play.google.com/store/apps/details?id=gal.aeito.app)**: Local-first mobile application published on Google Play for traditional Galician music preservation, built with Flutter, custom serialization, and zero cloud dependency.
+
+---
+
+### Technical Background
+
+- **Languages:** Python, SQL, Dart, Julia
+- **AI & Systems:** LangGraph, FastRTC, PyTorch, TensorFlow/Keras, scikit-learn, XGBoost, LightGBM
+- **Scientific & Geospatial:** NumPy, pandas, xarray, rasterio, Apache Spark, QGIS/PostGIS
+- **Engineering & Infra:** Docker, uv, Git, Linux / HPC environments
+
+---
+
+### Links
+
+- **Technical Portfolio:** [Applied AI & Scientific Computing Portfolio](https://github.com/nandonunez/applied-ai-portfolio)
+- **LinkedIn:** [linkedin.com/in/nandonunez](https://www.linkedin.com/in/nandonunez)
